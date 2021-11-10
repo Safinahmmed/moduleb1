@@ -1,0 +1,23 @@
+1.clone
+2.push
+3.commit
+gitk -all
+branch
+create online repo
+rcently update
+ignore
+fork
+
+Homework
+
+1.fork a simple popular repo into your github account
+2.clone the repo
+3.add a file containing java file with getter,setter,constructors
+4.git add,git commit,git push
+5.add a branch -> add a new file with a java class
+5.git add,git commit,git push
+merge
+create a merge confict according to the insruction from the .doc file
+create a file called ignore.txt
+Ignore it using .gitignore file
+
